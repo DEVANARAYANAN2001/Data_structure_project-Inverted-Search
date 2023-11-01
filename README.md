@@ -5,4 +5,5 @@ Brief :	The purpose of storing an index is to optimize speed and performance in 
 
 Pre-requisite : Hashing
                Single linked list
+               
 Level : Complex
